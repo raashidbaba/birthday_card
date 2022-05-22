@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Birthday card</string>
+    <item name="nameInput" type="id" />
+</resources>
